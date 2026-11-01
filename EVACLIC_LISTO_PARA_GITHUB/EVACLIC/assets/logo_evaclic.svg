@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-label="EVACLIC, generador de instrumentos de evaluación">
+ <title>EVACLIC</title>
+ <g transform="translate(12 9)">
+  <rect x="12" y="17" width="114" height="136" rx="22" fill="#f6e9ff" stroke="#6841a2" stroke-width="7"/>
+  <rect x="39" y="5" width="59" height="25" rx="12" fill="#b2edff" stroke="#6841a2" stroke-width="6"/>
+  <path d="M39 58 l9 9 16 -18 M39 92 l9 9 16 -18 M39 126 l9 9 16 -18" fill="none" stroke="#49bf98" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M79 60 h29 M79 94 h23 M79 128 h19" stroke="#a17bc8" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(113 65) rotate(30)">
+   <rect x="0" y="0" width="24" height="75" rx="8" fill="#ffbd37" stroke="#6841a2" stroke-width="4"/>
+   <rect x="0" y="0" width="24" height="16" rx="6" fill="#ff6eae" stroke="#6841a2" stroke-width="3"/>
+   <path d="M0 72 l12 22 12 -22z" fill="#fff0cd" stroke="#6841a2" stroke-width="3"/>
+   <path d="M8 87 h8 l-4 7z" fill="#6841a2"/>
+  </g>
+ </g>
+ <g font-family="Trebuchet MS, Arial Rounded MT Bold, Arial, sans-serif" font-size="79" font-weight="900" letter-spacing="-2">
+  <text x="174" y="105" fill="#8951d2">E</text><text x="226" y="105" fill="#9654db">V</text><text x="283" y="105" fill="#ef58a0">A</text><text x="342" y="105" fill="#15add1">C</text><text x="398" y="105" fill="#ffbd2e">L</text><text x="449" y="105" fill="#f99b32">I</text><text x="480" y="105" fill="#69c64a">C</text>
+ </g>
+ <text x="176" y="142" font-family="Arial, sans-serif" font-weight="600" font-size="20" letter-spacing=".5" fill="#665b78">Instrumentos de evaluación a un clic</text>
+ <path d="M176 155 Q375 174 548 154" fill="none" stroke="#b68bea" stroke-width="5" stroke-linecap="round"/>
+</svg>
