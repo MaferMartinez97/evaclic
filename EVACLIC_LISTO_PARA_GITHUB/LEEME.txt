@@ -1,5 +1,0 @@
-EVACLIC — Corrección de barra de navegación
-
-Se corrigió el recorte del primer botón en el menú. En pantallas grandes la navegación se distribuye en filas si hace falta; en pantallas pequeñas se desplaza horizontalmente desde Inicio.
-
-Abre EVACLIC/index.html.
